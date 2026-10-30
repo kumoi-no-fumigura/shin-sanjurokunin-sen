@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/shin-sanjurokunin-sen",
  "yomi": "しんさんじゅうろくにんせん",
  "category": "私撰集",
- "description": null,
+ "description": {
+  "kind": "秀歌撰",
+  "era": "正元2年（1260）2月",
+  "author": "撰者 未詳",
+  "desc": "序によれば、六十余歳の出家の身の撰者が、後鳥羽院から当代までの歌人36人を選び、一人10首ずつ記した。後鳥羽院・土御門院・順徳院から鴨長明・藤原秀能らまでを収める。"
+ },
  "editions": [
   {
    "pid": "1879496",
@@ -4074,6 +4079,6 @@
   "poems": 360,
   "editions": 1,
   "updated": "2026-10-29",
-  "updated_at": "2026-10-29T23:37:59+09:00"
+  "updated_at": "2026-10-29T23:55:04+09:00"
  }
 }
